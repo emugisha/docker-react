@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing docker build on Travis CI.
+          Testing docker build on Travis CI. Now testing the feature branch.
         </p>
         <a
           className="App-link"
